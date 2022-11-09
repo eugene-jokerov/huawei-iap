@@ -29,7 +29,7 @@ If you're not familiar with Composer, please see <http://getcomposer.org/>.
         {
             ...
             "require": {
-                "stafox/huawei-iap": "main"
+                "eugene-jokerov/huawei-iap": "main"
             },
             ...
         }
