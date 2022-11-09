@@ -45,10 +45,10 @@ class StoreSiteSelector
     ];
 
     protected $subscriptionSiteMapping = [
-        self::CHINA => 'https://subscr-drcn.iap.hicloud.com',
-        self::GERMANY => 'https://subscr-dre.iap.hicloud.com',
-        self::SINGAPORE => 'https://subscr-dra.iap.hicloud.com',
-        self::RUSSIA => 'https://subscr-drru.iap.hicloud.com',
+        self::CHINA => 'https://subscr-drcn.iap.cloud.huawei.com.cn',
+        self::GERMANY => 'https://subscr-dre.iap.cloud.huawei.eu',
+        self::SINGAPORE => 'https://subscr-dra.iap.cloud.huawei.asia',
+        self::RUSSIA => 'https://subscr-drru.iap.cloud.huawei.ru',
     ];
 
     /**
